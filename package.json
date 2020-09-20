@@ -1,0 +1,9 @@
+{
+  "name": "snowpack-plugin-csshash",
+  "version": "1.0.0",
+  "main": "csshash.js",
+  "license": "MIT",
+  "dependencies": {
+    "replace": "^1.2.0"
+  }
+}
