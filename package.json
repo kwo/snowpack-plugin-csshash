@@ -1,8 +1,15 @@
 {
   "name": "snowpack-plugin-csshash",
   "version": "1.0.0",
+  "author": "Karl Ostendorf <karl@ostendorf.com> (https://ostendorf.com/)",
+  "description": "Snowpack plugin to add a hash to CSS filenames.",
   "main": "csshash.js",
   "license": "MIT",
+  "keywords": [
+    "snowpack",
+    "snowpack-plugin",
+    "cache"
+  ],
   "dependencies": {
     "replace": "^1.2.0"
   }
